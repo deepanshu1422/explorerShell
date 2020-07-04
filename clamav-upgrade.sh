@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash/
 
 #    clamav-upgrade is a bash script to upgrade Clamav's version in 
 #    cPanel production servers.
