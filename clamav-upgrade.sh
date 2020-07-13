@@ -7,7 +7,7 @@
 #    production server since that cPanel sync usually takes several days
 #    or weeks to reach the production server and some attackers could use
 #    this window maintenance in advantage.
-
+///
 #    Copyright (C) 2013-2017 by Ángel Guzmán Maeso, shakaran at gmail dot com
 
 #    This program is free software; you can redistribute it and/or modify
