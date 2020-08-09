@@ -5,7 +5,7 @@
 This a collection of common and useful scripts that I found or create for diary use or for my freelance customers.
 
 ## Scripts
-
+///////
 * zerolog: is a bash script for delete common logs on /var/log and avoid fill the disk with rotated files. It backups previously the logs on home folder and it can preserve logs older than a date given on days. This is useful for avoid slow sessions starts on bash terminals.
 
 * kernpurge: is a bash script for delete old kernels and clean old kernel entries in grub.
