@@ -6,7 +6,7 @@
 #    The purpose of this script is upgrade a quickly Clamav's cPanel 
 #    production server since that cPanel sync usually takes several days
 #    or weeks to reach the production server and some attackers could use
-#    this window maintenance in advantage.
+#    this window maintenance in advantage.////
 ///
 #    Copyright (C) 2013-2017 by Ángel Guzmán Maeso, shakaran at gmail dot com
 
