@@ -11,7 +11,7 @@ This a collection of common and useful scripts that I found or create for diary 
 * kernpurge: is a bash script for delete old kernels and clean old kernel entries in grub.
 
     Quick use:
-
+/////
     ```bash
     wget https://raw.githubusercontent.com/deepanshu1422/scripts/master/kernpurge.sh -O - | bash
     ```
